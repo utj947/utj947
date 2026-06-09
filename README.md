@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Taejoo! 👋</h1>
-<p><strong>Master's student in Korea | Robotics | AI | Web Tools </strong></p>
+<p><strong>Master's student in Korea </strong></p>
 
 
 ### About Me
