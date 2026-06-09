@@ -7,7 +7,7 @@
 - I'm currently a Master's student based in Korea.
 - Working on exciting projects in **Robotics**, **Artificial Intelligence**, and developing **Practical Web Tools**.
 - Always learning and exploring new technologies to build practical solutions.
-- 🌐 For more details, please visit my personal website [https://taejooum.com](https://taejooum.com).
+- 🌐 For more details, please visit my personal website: [https://taejooum.com](https://taejooum.com).
 
 
 ### Contact Me
